@@ -163,6 +163,7 @@ section {
   width:1000px;
   float:right;
   position:fixed;
+  margin-right:40px;
   padding-bottom:50px;
 }
 
@@ -201,7 +202,7 @@ footer {
     padding-right:320px;
   }
   
-  section {
+   {
     border:1px solid #e5e5e5;
     border-width:1px 0;
     padding:20px 0;
