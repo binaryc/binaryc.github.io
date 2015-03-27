@@ -160,8 +160,9 @@ strong {
 }
 
 section {
-  width:500px;
+  width:1000px;
   float:right;
+  position:fixed;
   padding-bottom:50px;
 }
 
