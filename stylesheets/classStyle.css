@@ -1,7 +1,7 @@
 .avatar,
 .logo {
-  border-radius: 80%;
-  border: 3px solid #FFF;
+  border-radius: 50%;
+  border: 2px solid #FFF;
   box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.3);
   
 }
